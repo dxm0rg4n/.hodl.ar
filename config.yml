@@ -1,7 +1,55 @@
+# HTML Head settings
+html:
+  title: DxMorgan | Testeo
+
+# Main container settings
+main:
+  title: 🔪 Dexter Morgan 💉
+
+# Blocks list
+blocks:
+  - title: Telegram 
+    icon: telegram
+    url: https://t.me/dxmorgan
+
+#  - title: Discord
+#    icon: discord
+#    url: https://discord.lacrypta.com.ar
+
+#  - title: Quiero participar!
+#    icon: voluntary
+#    url: https://docs.google.com/forms/d/e/1FAIpQLSfMM_fDXrBVlxujPy4yhYRuhHWrtPSvoD8QRCKuHzZXgsFFzg/viewform
+
+  - title: Github
+    icon: github
+    url: https://github.com/dxm0rg4n/
+
+  - title: Twitter
+    icon: twitter
+    url: https://twitter.com/chelodxmg
+
+  - title: PlayFC Movies
+    icon: url
+    url: https://t.me/playfc
+
+  - title: WhatsApp
+    icon: whatsapp
+    url: https://api.whatsapp.com/send/?phone=%2B541128073054&text=Hola+que+tal&type=phone_number&app_absent=0
+
+  - title: "Mejores Fraces"
+    icon: youtube
+    url: https://www.youtube.com/watch?v=F2ZqsqfgsEc
+
+
+
+
+
+
+#--------------------------------------
 # ESTO ES UN COMENTARIO
 # Todo lo que está a la derecha de # es solo para nosotros
 
-version: 0.3.5 # NO TOCAR
+#version: 0.3.5 # NO TOCAR
 
 # HODL username
 # username: "USUARIO" # < TU_USUARIO@hodl.ar
@@ -11,27 +59,27 @@ version: 0.3.5 # NO TOCAR
 #   npub: "TU_PUB" # Entre comillas dobles
 
 # Configuración Global
-html:
+#html:
 # title: Este valor no funciona porque esta comentado
-  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
+#  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
 
 # Colores de plantilla
-theme:
-  background_color: "#f9fafb"
+#theme:
+#  background_color: "#f9fafb"
   # cover_color: "#ff7070"
 
 # Configuración Central
-main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+#main:
+#  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
-blocks:
+#blocks:
   # Estos bloques los podes editar cambiando SOLO el texto que está en blanco
   # Sacale 
 
-  - title: Instagram
-    icon: instagram
-    url: https://www.instagram.com/lacryptaok/
+#  - title: Instagram
+#    icon: instagram
+#    url: https://www.instagram.com/lacryptaok/
 
 # - title: Twitter
 #   icon: twitter
